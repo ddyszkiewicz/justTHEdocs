@@ -1,3 +1,7 @@
+---
+title: Home
+layout: home
+---
 
 How to apply toothpaste onto a toothbrush
 
