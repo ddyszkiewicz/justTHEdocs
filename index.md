@@ -72,6 +72,6 @@ Figure 4. Toothbrush. 1—bristles; 2—handle
 
 ![Figure 4](./images/figure4.png "Figure 4. Toothbrush. 1—bristles; 2—handle")
 
-[this is a link](./docs/doc1.md)
+[this is a link](./docs/doc1.html)
  
  
