@@ -1,6 +1,8 @@
 ---
-title: Home
-layout: home
+title: Toothpaste Manual
+layout: default
+nav_order: 2
+has_children: true
 ---
 
 How to apply toothpaste onto a toothbrush
@@ -69,5 +71,7 @@ Figure 3. Toothpaste container. 1—cap; 2—tube tip; 3—tube
 Figure 4. Toothbrush. 1—bristles; 2—handle
 
 ![Figure 4](./images/figure4.png "Figure 4. Toothbrush. 1—bristles; 2—handle")
+
+[this is a link](./docs/doc1.md)
  
  
