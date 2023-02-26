@@ -23,11 +23,11 @@ I. Introduction
 This manual provides instructions on how to apply toothpaste onto a toothbrush. It is an essential step for proper oral hygiene. Refer to the instructions and figures below to complete this procedure.
 
 II. Prerequisites
-In order to begin applying toothpaste onto a toothbrush, meet the following conditions:
+You need to meet the following conditions to begin applying toothpaste onto a toothbrush:
 
 1. Obtain a toothbrush and a toothpaste.
 <!-- first note  -->
-*Note: You can buy toothbrushes and toothpastes at supermarkets (usually found in the cosmetics aisle), pharmacies, or online. See Figures 1 and 2 for a visual reference.*
+*Note: You can buy toothbrushes and toothpastes at supermarkets (usually found in the cosmetics aisle), drugstores, pharmacies, or online. See Figures 1 and 2 for a visual reference.*
 
 2. Open the outer packaging of the toothbrush and get the toothbrush out.
 
@@ -40,7 +40,7 @@ Follow the steps below to apply toothpaste onto a toothbrush.
 
 2. Grab the cap with the other hand and twist it counterclockwise to open the container.
 
-*Note: If the toothpaste container is new, look for a tamper seal on the tube tip. If it's there, follow the manufacturer’s instructions on the packaging to remove the seal before continuing.*
+*Note: If the toothpaste container is new, look for a tamper seal on the tube tip. If the tamper seal is placed at the tube tip, follow the manufacturer’s instructions on the packaging to remove the seal before continuing.*
 
 3. Put away the cap.
 
