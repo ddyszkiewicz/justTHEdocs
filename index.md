@@ -27,7 +27,7 @@ You need to meet the following conditions to begin applying toothpaste onto a to
 
 1. Obtain a toothbrush and a toothpaste.
 <!-- first note  -->
-*Note: You can buy toothbrushes and toothpastes at supermarkets (usually found in the cosmetics aisle), drugstores, pharmacies, or online. See Figures 1 and 2 for a visual reference.*
+*Note: You can buy toothbrushes and toothpastes at supermarkets (usually found in the cosmetics aisle), most drugstores, pharmacies, or online. See Figures 1 and 2 for a visual reference.*
 
 2. Open the outer packaging of the toothbrush and get the toothbrush out.
 
